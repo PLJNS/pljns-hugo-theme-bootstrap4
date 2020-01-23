@@ -6,6 +6,11 @@
  */
 
 @import "node_modules/bootstrap/scss/functions";
+
+$font-family-serif: adelle, serif, !default;
+$font-family-sans-serif:  din-2014, sans-serif, !default;
+$headings-font-family: $font-family-serif, !default;
+
 @import "node_modules/bootstrap/scss/variables";
 @import "node_modules/bootstrap/scss/mixins";
 //@import "node_modules/bootstrap/scss/root";
